@@ -1,0 +1,9 @@
+node_modules
+
+# Personal item
+db
+src/api-key.js
+
+# test files
+*/*test.js
+BUG_TRACER.md

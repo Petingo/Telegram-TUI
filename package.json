@@ -1,0 +1,24 @@
+{
+  "name": "tetg",
+  "version": "1.0.0",
+  "description": "A telegram client on your terminal!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -r esm src/index.js",
+    "test": "node -r esm src/blessed_test.js"
+  },
+  "keywords": [
+    "telegram",
+    "cli",
+    "tui"
+  ],
+  "author": "Petingo",
+  "license": "MIT",
+  "dependencies": {
+    "airgram": "^5.0.0",
+    "blessed": "^0.1.81",
+    "esm": "^3.2.25",
+    "knex": "^2.2.0",
+    "sqlite3": "^5.0.10"
+  }
+}
