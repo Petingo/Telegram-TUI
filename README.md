@@ -1,5 +1,6 @@
 # TeTg
 A telegram client on your terminal with optimized experience of TUI!
+(I currently have no time for developing this, but if you're interested in working it out, please contact me!)
 
 ![](./imgs/example.gif)
 
